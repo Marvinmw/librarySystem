@@ -1,0 +1,20 @@
+ 教师
+    Teacher("Jno","25","125", true));
+    Teacher("Tom","23", "124",true));
+    Teacher("Sun", "26", "127", true));
+    Teacher("李华", "27", "128",true));
+    Teacher("李丹", "24", "129", true));
+  本科生
+    Undergraduate("章鱼","142", "135",false));
+    Undergraduate("王大", "143","136", false));
+  研究生
+    Postgraduate("米泽", "101", "132", true));
+    Postgraduate("都帅", "102", "133", true));
+   管理员
+    Manager("老大","167","124"));
+  书
+   Book("Red","DOO",false));
+   Book("Black and h","DOO",false));
+   Book("Hei","黑子",true));
+   Book("Hei","adas",true));
+   
